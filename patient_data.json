@@ -1,0 +1,23 @@
+[
+    {
+        "patient_id": "P001",
+        "name": "John Doe",
+        "age": 35,
+        "gender": "Male",
+        "diagnosis": "Hypertension"
+    },
+    {
+        "patient_id": "P002",
+        "name": "Jane Smith",
+        "age": 28,
+        "gender": "Female",
+        "diagnosis": "Diabetes Type 2"
+    },
+    {
+        "patient_id": "P003",
+        "name": "Michael Brown",
+        "age": 45,
+        "gender": "Male",
+        "diagnosis": "Asthma"
+    }
+]
